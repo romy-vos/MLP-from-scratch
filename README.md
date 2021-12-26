@@ -1,6 +1,6 @@
 ## Simple MLP from scratch
 
-A python implementation of a simple MLP from scratch without any libraries (only math module).
+A python implementation of a simple MLP from scratch without any libraries (only math module), part of assignment 1 from the Deep Learning course at VU Amsterdam.
 
 The MLP:
 - input layer with 2 nodes
